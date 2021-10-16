@@ -1,1 +1,5 @@
-# QB
+- 👋 Hi, I’m @Dx-Born
+- 👀 I’m FiveM Server Developer
+- 🌱 I’m currently learning C/C+, Flutter, Lua, Java, App developing.
+- 💞️ I’m looking to collaborate on Bangladesh
+- 📫 Contact me on Discord:- Mr_Dx#0879
